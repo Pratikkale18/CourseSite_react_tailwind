@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.81bbf4a1.css",
-    "main.js": "/portfolio/static/js/main.a54b5ea5.js",
-    "index.html": "/portfolio/index.html",
-    "main.81bbf4a1.css.map": "/portfolio/static/css/main.81bbf4a1.css.map",
-    "main.a54b5ea5.js.map": "/portfolio/static/js/main.a54b5ea5.js.map"
+    "main.css": "/CourseSite_react_tailwind/static/css/main.81bbf4a1.css",
+    "main.js": "/CourseSite_react_tailwind/static/js/main.a54b5ea5.js",
+    "index.html": "/CourseSite_react_tailwind/index.html",
+    "main.81bbf4a1.css.map": "/CourseSite_react_tailwind/static/css/main.81bbf4a1.css.map",
+    "main.a54b5ea5.js.map": "/CourseSite_react_tailwind/static/js/main.a54b5ea5.js.map"
   },
   "entrypoints": [
     "static/css/main.81bbf4a1.css",
